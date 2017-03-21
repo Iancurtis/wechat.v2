@@ -8,7 +8,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/chanxuehong/util"
+	"github.com/iancurtis/util"
 )
 
 func DebugPrintRequest(r *http.Request) {

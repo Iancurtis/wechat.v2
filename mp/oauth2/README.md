@@ -11,11 +11,11 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/chanxuehong/rand"
-	"github.com/chanxuehong/session"
-	"github.com/chanxuehong/sid"
-	mpoauth2 "github.com/chanxuehong/wechat.v2/mp/oauth2"
-	"github.com/chanxuehong/wechat.v2/oauth2"
+	"github.com/iancurtis/rand"
+	"github.com/iancurtis/session"
+	"github.com/iancurtis/sid"
+	mpoauth2 "github.com/iancurtis/wechat.v2/mp/oauth2"
+	"github.com/iancurtis/wechat.v2/oauth2"
 )
 
 const (

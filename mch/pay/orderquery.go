@@ -6,9 +6,9 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/chanxuehong/rand"
-	"github.com/chanxuehong/util"
-	"github.com/chanxuehong/wechat.v2/mch/core"
+	"github.com/iancurtis/rand"
+	"github.com/iancurtis/util"
+	"github.com/iancurtis/wechat.v2/mch/core"
 )
 
 // 查询订单.

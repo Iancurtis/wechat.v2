@@ -1,5 +1,5 @@
 # wechat SDK for golang
-此为v2版本, v1请移步到 https://github.com/chanxuehong/wechat
+此为v2版本, v1请移步到 https://github.com/iancurtis/wechat
 
 ## 简介
 | 模块  | 描述                     |
@@ -24,11 +24,11 @@ http://localhost:8080/
 即可查看文档
 
 ## 捐助
-![微信支付](https://github.com/chanxuehong/wechat.v2/blob/master/weixin_pay.png)
-![支付宝](https://github.com/chanxuehong/wechat.v2/blob/master/alipay.png)
+![微信支付](https://github.com/iancurtis/wechat.v2/blob/master/weixin_pay.png)
+![支付宝](https://github.com/iancurtis/wechat.v2/blob/master/alipay.png)
 
 ## 捐助者列表
-[点击查看](https://github.com/chanxuehong/wechat.v2/blob/master/donors.md)
+[点击查看](https://github.com/iancurtis/wechat.v2/blob/master/donors.md)
 
 ## 授权(LICENSE)
 [wechat is licensed under the Apache Licence, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)

@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/chanxuehong/util"
-	"github.com/chanxuehong/wechat.v2/internal/debug/mch/api"
+	"github.com/iancurtis/util"
+	"github.com/iancurtis/wechat.v2/internal/debug/mch/api"
 )
 
 type Client struct {

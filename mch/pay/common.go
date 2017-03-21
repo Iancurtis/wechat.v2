@@ -9,8 +9,8 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/chanxuehong/util"
-	"github.com/chanxuehong/wechat.v2/mch/core"
+	"github.com/iancurtis/util"
+	"github.com/iancurtis/wechat.v2/mch/core"
 )
 
 // 关闭订单.

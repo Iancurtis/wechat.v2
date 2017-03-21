@@ -8,7 +8,7 @@ import (
 	"io/ioutil"
 	"log"
 
-	"github.com/chanxuehong/wechat.v2/json"
+	"github.com/iancurtis/wechat.v2/json"
 )
 
 func DebugPrintGetRequest(url string) {

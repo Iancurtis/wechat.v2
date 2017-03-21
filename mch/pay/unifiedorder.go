@@ -4,8 +4,8 @@ import (
 	"crypto/md5"
 	"strconv"
 
-	"github.com/chanxuehong/rand"
-	"github.com/chanxuehong/wechat.v2/mch/core"
+	"github.com/iancurtis/rand"
+	"github.com/iancurtis/wechat.v2/mch/core"
 )
 
 // 统一下单.
